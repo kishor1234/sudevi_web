@@ -10,7 +10,7 @@
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.
                     </p>
                     <p class="footer-text">
-                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> | <a href="termsand conditions.php">Terms and Conditions</a> | <a href="privacypolicy.php">Privacy Policy</a>
+                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://pixelatedegg.com/" target="_blank">Pixelated Egg Digital Ventures - 2019</a> | <a href="termsand conditions.php">Terms and Conditions</a> | <a href="privacypolicy.php">Privacy Policy</a>
                     </p>								
                 </div>
             </div>

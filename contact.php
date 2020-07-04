@@ -11,7 +11,7 @@ include 'view/layout/header.php';
                 <h1 class="text-white">
                     Contact Us				
                 </h1>	
-                <p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="contact.html"> Contact Us</a></p>
+                <p class="text-white link-nav"><a href="/">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="contact.php"> Contact Us</a></p>
             </div>	
         </div>
     </div>
