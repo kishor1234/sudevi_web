@@ -39,7 +39,7 @@ include 'view/layout/header.php';
                                 <li>The development, pre-production and post-production testing of the dyed fabric is meticulous, rigorous and is regularly monitored by a professional team to ensure that only the best fabric is delivered to our clients and customers.</li>
                             </ul>
 
-                            <img class="img-fluid pb-10" src="img/blog/p1.jpg" alt="">
+                            <img class="img-fluid pb-10" src="img/row/1.jpg" alt="">
 
                         </div>
 
@@ -50,7 +50,7 @@ include 'view/layout/header.php';
                                 <li>The capacity goes from 25 kgs right up to 900 kgs, and this enables us to process any amount of fabric based on the requirement of our clients.</li>
                                 <li>These machines operate at a liquor ratio of 1 : 3.8 and are the most energy and water efficient machines across the industry.</li>
                             </ul>
-                            <img class="img-fluid pb-10" src="img/blog/p1.jpg" alt="">
+                            <img class="img-fluid pb-10" src="img/row/2.jpg" alt="">
                         </div>
                         <div class="pb-20">
                             <h3 class="pb-20">
@@ -60,7 +60,7 @@ include 'view/layout/header.php';
                             <ul class="unordered-list pb-10">
                                 <li>Our tubular section consists of a Bianco squeezer, Unitech Dryer and Bianco Compactor. </li>
                             </ul>
-                            <img class="img-fluid pb-10" src="img/blog/p1.jpg" alt="">
+                            <img class="img-fluid pb-10" src="img/row/3.jpg" alt="">
                         </div>
 
                         <div class="pb-20">
@@ -71,7 +71,7 @@ include 'view/layout/header.php';
                             <ul class="unordered-list pb-10">
                                 <li>Our open-width finishing section comprises a Bianco Slit Opener, Il Sung Sun Super 2 Stenter and a Bianco Compactor. </li>
                             </ul>
-                            <img class="img-fluid pb-10" src="img/blog/p1.jpg" alt="">
+                            <img class="img-fluid pb-10" src="img/row/4.jpg" alt="">
                         </div>
 
                         <div class="pb-20">
@@ -81,7 +81,7 @@ include 'view/layout/header.php';
                             <ul class="unordered-list pb-10">
                                 <li>To maintain perfection and our zero-handling of fabrics philosophy we have an automatic-checking and packaging machine imported from La Meccanica, Italy.  </li>
                             </ul>
-                            <img class="img-fluid pb-10" src="img/blog/p1.jpg" alt="">
+                            <img class="img-fluid pb-10" src="img/row/5.jpg" alt="">
                         </div>
                         
                         <div class="pb-20">
@@ -94,7 +94,7 @@ include 'view/layout/header.php';
                                 <li>Our effluent treatment plant treats water in three stages including advanced oxidation process.</li>
                                 <li>For recycling the water, we treat the water through ultrafiltration membranes and reverse-osmosis membranes. This way we are able to recycle 50% of our effluent generated. </li>
                             </ul>
-                            <img class="img-fluid pb-10" src="img/blog/p1.jpg" alt="">
+                            <img class="img-fluid pb-10" src="img/row/6.jpg" alt="">
                         </div>
 
 

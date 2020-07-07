@@ -32,7 +32,7 @@ include 'view/layout/header.php';
 
                         <p>&nbsp;</p>
 
-                        <p><img class="img-fluid pb-10" src="img/blog/p1.jpg" alt=""></p>
+                        <p><img class="img-fluid pb-10" src="img/row/1.jpg" alt=""></p>
 
 
                         <p>&nbsp;</p>
@@ -53,7 +53,7 @@ include 'view/layout/header.php';
 
                         <p>&nbsp;</p>
 
-                        <p><img class="img-fluid pb-10" src="img/blog/p1.jpg" alt=""></p>
+                        <p><img class="img-fluid pb-10" src="img/row/2.jpg" alt=""></p>
 
                     </div>
 

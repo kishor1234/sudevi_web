@@ -92,7 +92,7 @@ include 'view/layout/header.php';
                 <a class="primary-btn" href="#">Read More</a>
             </div>
             <div class="col-lg-4 col-md-12 home-about-right relative">
-                <img src="img/s2.jpg" alt="">	
+                <img src="img/row/color5.jpg" alt="" class="img-fluid">	
             </div>
         </div>
     </div>	
@@ -115,7 +115,7 @@ include 'view/layout/header.php';
             <div class="col-lg-6">
                 <div class="single-service">
                     <div class="thumb">
-                        <img src="img/s1.jpg" alt="">									
+                        <img src="img/row/fabric.jpg" alt="">									
                     </div>
                     <h4>FABRICS</h4>
                     <p>
@@ -126,7 +126,7 @@ include 'view/layout/header.php';
             <div class="col-lg-6">
                 <div class="single-service">
                     <div class="thumb">
-                        <img src="img/s2.jpg" alt="">									
+                        <img src="img/row/garments.jpeg" alt="">									
                     </div>
                     <h4>GARMENTS</h4>
                     <p>
@@ -150,7 +150,7 @@ include 'view/layout/header.php';
 <!-- End service Area -->
 
 
-<!-- Start faq Area -->
+<!-- Start faq Area --
 <section class="faq-area section-gap relative">
     <div class="overlay overlay-bg"></div>
     <div class="container">
@@ -205,7 +205,7 @@ include 'view/layout/header.php';
 <!-- End faq Area -->
 
 
-<!-- Start project Area -->
+<!-- Start project Area --
 <section class="project-area section-gap" id="project">
     <div class="container">
         <div class="row justify-content-center">
@@ -242,7 +242,7 @@ include 'view/layout/header.php';
 </section>
 <!-- End project Area -->
 
-<!-- Start feedback Area -->
+<!-- Start feedback Area --
 <section class="feedback-area section-gap relative" id="feedback">
     <div class="overlay overlay-bg"></div>
     <div class="container">

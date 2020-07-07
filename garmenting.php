@@ -50,7 +50,7 @@ include 'view/layout/header.php';
 
                         <p>&nbsp;</p>
 
-                        <p><img class="img-fluid pb-10" src="img/blog/p1.jpg" alt=""></p>
+                        <p><img class="img-fluid pb-10" src="img/row/7.jpg" alt=""></p>
 
                         <p>&nbsp;</p>
 
@@ -353,7 +353,7 @@ include 'view/layout/header.php';
                         <p><br />
                             &nbsp;</p>
 
-                        <p><img class="img-fluid pb-10" src="img/blog/p1.jpg" alt=""></p>
+                        <p><img class="img-fluid pb-10" src="img/row/5.jpg" alt=""></p>
 
                         <p>&nbsp;</p>
 
@@ -373,7 +373,7 @@ include 'view/layout/header.php';
 
                         <p>&nbsp;</p>
 
-                        <p><img class="img-fluid pb-10" src="img/blog/p1.jpg" alt=""></p>
+                        <p><img class="img-fluid pb-10" src="img/row/3.jpg" alt=""></p>
 
 
                     </div>

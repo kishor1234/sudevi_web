@@ -86,7 +86,7 @@ include 'view/layout/header.php';
 </section>
 <!-- End home-about Area -->
 
-<!-- Start cat Area -->
+<!-- Start cat Area --
 <section class="cat-area section-gap aboutus-cat" id="feature">
     <div class="container">							
         <div class="row">
@@ -122,7 +122,7 @@ include 'view/layout/header.php';
 </section>
 <!-- End cat Area -->						
 
-<!-- Start service Area -->
+<!-- Start service Area --
 <section class="service-area section-gap" id="service">
     <div class="container">
         <div class="row justify-content-center">
@@ -173,7 +173,7 @@ include 'view/layout/header.php';
 <!-- End service Area -->
 
 
-<!-- Start faq Area -->
+<!-- Start faq Area --
 <section class="faq-area section-gap relative">
     <div class="overlay overlay-bg"></div>
     <div class="container">
@@ -227,7 +227,7 @@ include 'view/layout/header.php';
 </section>
 <!-- End faq Area -->
 
-<!-- Start feedback Area -->
+<!-- Start feedback Area --
 <section class="feedback-area aboutus-feedback section-gap" id="feedback">
     <div class="container">
         <div class="row justify-content-center">
