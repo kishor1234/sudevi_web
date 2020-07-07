@@ -4,319 +4,317 @@ include 'view/layout/header.php';
 ?>
 
 
-			<!-- start banner Area -->
-			<section class="banner-area relative" id="home">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row fullscreen d-flex align-items-center justify-content-center">
-						<div class="banner-content col-lg-12 col-md-12">
-							<h6 class="text-uppercase">Don’t look further, here is the key</h6>
-							<h1>
-								We’re Industrial solution			
-							</h1>
-							<p class="text-white">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et <br> dolore magna aliqua. Ut enim ad minim.  sed do eiusmod tempor incididunt.
-							</p>
-							<a href="#" class="primary-btn header-btn text-uppercase">Get Started</a>
-						</div>												
-					</div>
-				</div>
-			</section>
-			<!-- End banner Area -->
+<!-- start banner Area -->
+<section class="banner-area relative" id="home">
+    <div class="overlay overlay-bg"></div>
+    <div class="container">
+        <div class="row fullscreen d-flex align-items-center justify-content-center">
+            <div class="banner-content col-lg-12 col-md-12">
+                <!--                <h6 class="text-uppercase">Don’t look further, here is the key</h6>-->
+                <h1>
+                    SUDEVI CHEMICALS			
+                </h1>
+                <p class="text-white">
+                    A home that's adding colours to your life and fabrics since the last 5 decades.
 
-			<!-- Start cat Area -->
-			<section class="cat-area section-gap" id="feature">
-				<div class="container">							
-					<div class="row">
-						<div class="col-lg-4">	
-							<div class="single-cat d-flex flex-column">
-								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-magic-wand"></span></span></a>
-								<h4 class="mb-20" style="margin-top: 23px;">Maintenance</h4>
-								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why.
-								</p>
-							</div>															
-						</div>
-						<div class="col-lg-4">	
-							<div class="single-cat">
-								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-rocket"></span></span></a>
-								<h4 class="mt-40 mb-20">Residental Service</h4>
-								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why.
-								</p>
-							</div>															
-						</div>
-						<div class="col-lg-4">
-							<div class="single-cat">
-								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bug"></span></span></a>
-								<h4 class="mt-40 mb-20">Commercial Service</h4>
-								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why.
-								</p>
-							</div>							
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End cat Area -->		
-			
+                </p>
+                <a href="about.php" class="primary-btn header-btn text-uppercase">Read More</a>
+            </div>												
+        </div>
+    </div>
+</section>
+<!-- End banner Area -->
 
-			<!-- Start home-about Area -->
-			<section class="home-about-area section-gap" id="about">
-				<div class="container">
-					<div class="row justify-content-center align-items-center">
-						<div class="col-lg-8 col-md-12 home-about-left">
-							<h6>Brand new app to blow your mind</h6>
-							<h1>
-								We’ve made a life <br>
-								that will change you
-							</h1>
-							<p class="sub">We are here to listen from you deliver exellence</p>
-							<p class="pb-20">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
-							</p>
-							<a class="primary-btn" href="#">Get Started Now</a>
-						</div>
-						<div class="col-lg-4 col-md-12 home-about-right relative">
-							<form class="form-wrap" action="#">
-								<h4 class="text-white pb-20">Request a Quote</h4>
-								<div class="form-select" id="service-select"">
-									<select>
-										<option value="1">Select Service</option>
-										<option value="2">Service One</option>
-										<option value="3">Service Two</option>
-										<option value="4">Service Three</option>
-										<option value="5">Service Four</option>
-									</select>
-								</div>								
-								<input type="text" class="form-control" placeholder="name">
-								<input type="phone" class="form-control" placeholder="Phone Number">
-								<input type="email" class="form-control" placeholder="Email Address">
-								<textarea name="message" id="" cols="30" rows="5" placeholder="Message" class="form-control"></textarea>
-								<button class="primary-btn">Request Free Quote</button>
-							</form>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End home-about Area -->
-					
+<!-- Start cat Area -->
+<section class="cat-area section-gap" id="feature">
+    <div class="container">	
+        <div class="row justify-content-center">
+            <div class="col-md-12 pb-30 header-text text-center">
+                <h1 class="mb-10">MANUFACTURING</h1>
+<!--                <p>
+                    Who are in extremely love with eco friendly system..
+                </p>-->
+            </div>
+        </div>	
+        <div class="row">
+            <div class="col-lg-4">	
+                <div class="single-cat d-flex flex-column">
+                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-magic-wand"></span></span></a>
+                    <h4 class="mb-20" style="margin-top: 23px;">That cannot be compromised</h4>
+                    <p>
+                        Our advanced cutting-age technology backed with the latest machinery ensures we provide nothing but the best for the garment and fabric manufacturers.
+                    </p>
+                </div>															
+            </div>
+            <div class="col-lg-4">	
+                <div class="single-cat">
+                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-rocket"></span></span></a>
+                    <h4 class="mt-40 mb-20">Dyeing</h4>
+                    <p>
+                        Our Dyeing facility is equipped with a modern lab, dyeing systems, a diverse finishing machines, along with automated packaging line
+                        to certify zero-handling and damages of fabrics.
 
-			<!-- Start service Area -->
-			<section class="service-area section-gap" id="service">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-12 pb-30 header-text text-center">
-							<h1 class="mb-10">Our Capturing Market Sectors</h1>
-							<p>
-								Who are in extremely love with eco friendly system..
-							</p>
-						</div>
-					</div>						
-					<div class="row">
-						<div class="col-lg-4">
-							<div class="single-service">
-								<div class="thumb">
-									<img src="img/s1.jpg" alt="">									
-								</div>
-								<h4>Automotive Engineering</h4>
-								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-4">
-							<div class="single-service">
-								<div class="thumb">
-									<img src="img/s2.jpg" alt="">									
-								</div>
-								<h4>Construction & Engineering</h4>
-								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-4">
-							<div class="single-service">
-								<div class="thumb">
-									<img src="img/s3.jpg" alt="">									
-								</div>
-								<h4>Industrial Engineering</h4>
-								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
-								</p>
-							</div>
-						</div>												
-					</div>
-				</div>	
-			</section>
-			<!-- End service Area -->
-			
-
-			<!-- Start faq Area -->
-			<section class="faq-area section-gap relative">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row justify-content-center align-items-center">
-						<div class="col-lg-3 col-md-6">
-							<div class="single-faq">
-								<div class="circle">
-								  <div class="inner"></div>
-								</div>
-								<h5><span class="counter">2</span>K+</h5>
-								<p>
-									Projects Completed
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-faq">
-								<div class="circle">
-								  <div class="inner"></div>
-								</div>
-								<h5><span class="counter">5.5</span>K</h5>
-								<p>
-									Total Employees
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-faq">
-								<div class="circle">
-								  <div class="inner"></div>
-								</div>
-								<h5 class="counter">959</h5>
-								<p>
-									Happy Clients
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-faq">
-								<div class="circle">
-								  <div class="inner"></div>
-								</div>
-								<h5 class="counter">367</h5>
-								<p>
-									Tickets Submited
-								</p>
-							</div>
-						</div>																		
-					</div>
-				</div>	
-			</section>
-			<!-- End faq Area -->
+                    </p>
+                </div>															
+            </div>
+            <div class="col-lg-4">
+                <div class="single-cat">
+                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bug"></span></span></a>
+                    <h4 class="mt-40 mb-20">Garmenting</h4>
+                    <p>
+                        Our Garment manufacturing facility is equipped with inhouse provisions for Cutting, Stitching and Finishing equipment that adds a substantial value to the finished product.
+                    </p>
+                </div>							
+            </div>
+        </div>
+    </div>	
+</section>
+<!-- End cat Area -->		
 
 
-			<!-- Start project Area -->
-			<section class="project-area section-gap" id="project">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-8 pb-30 header-text text-center">
-							<h1 class="mb-10">Latest Finished Projects</h1>
-							<p>
-								Who are in extremely love with eco friendly system..
-							</p>
-						</div>
-					</div>						
-					<div class="row">
-						<div class="col-lg-8 col-md-8">
-							<a href="img/p1.jpg" class="img-gal">
-								<img class="img-fluid single-project" src="img/p1.jpg" alt="">
-							</a>	
-						</div>
-						<div class="col-lg-4 col-md-4">
-							<a href="img/p2.jpg" class="img-gal">
-								<img class="img-fluid single-project" src="img/p2.jpg" alt="">
-							</a>	
-						</div>						
-						<div class="col-lg-6 col-md-6">
-							<a href="img/p3.jpg" class="img-gal">
-								<img class="img-fluid single-project" src="img/p3.jpg" alt="">
-							</a>	
-						</div>
-						<div class="col-lg-6 col-md-6">
-							<a href="img/p4.jpg" class="img-gal">
-								<img class="img-fluid single-project" src="img/p4.jpg" alt="">
-							</a>	
-						</div>		
-					</div>
-				</div>	
-			</section>
-			<!-- End project Area -->
-						
-			<!-- Start feedback Area -->
-			<section class="feedback-area section-gap relative" id="feedback">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-12 pb-30 header-text text-center">
-							<h1 class="mb-10 text-white">Enjoy our Client’s Feedback</h1>
-							<p class="text-white">
-								Who are in extremely love with eco friendly system..
-							</p>
-						</div>
-					</div>			
-					<div class="row feedback-contents justify-content-center align-items-center">
-						<div class="col-lg-6 feedback-left relative d-flex justify-content-center align-items-center">
-							<div class="overlay overlay-bg"></div>
-							<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM"><img class="img-fluid" src="img/play-btn.png" alt=""></a>
-						</div>
-						<div class="col-lg-6 feedback-right">
-							<div class="active-review-carusel">
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="text-white pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>								
-										</div>										
-									</div>
-									<p class="text-white">
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="text-white pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>								
-										</div>										
-									</div>
-									<p class="text-white">
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="text-white pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked	"></span>								
-										</div>										
-									</div>
-									<p class="text-white">
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>																
-							</div>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End feedback Area -->
-			
-		
+<!-- Start home-about Area -->
+<section class="home-about-area section-gap" id="about">
+    <div class="container">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-8 col-md-12 home-about-left">
+                <h1>
+                    CERTIFICATIONS & PROGRAMS
+                </h1>
+                <p class="sub">Our foremost focus is to reduce our carbon footprint and minimise environmental load.</p>
+                <div class="pb-20" id="ml-30">
+                    <ul class="unordered-list">
+                        <li>We consume 50% less water than traditional factories and dyers.&nbsp;&nbsp;<i class="fas fa-tint"></i></li>
+                        <li>We recycle up-to 50% of the effluent generated.&nbsp;&nbsp;<i class="fas fa-recycle"></i></li>
+                        <li>Our machines are highly energy efficient and consume only 30 - 40% of the electricity.&nbsp;&nbsp;<i class="far fa-lightbulb"></i> </li>
+                        <li>Our fuel consumption is 50% less than other dyeing factories which helps us preserve <br>fossil fuels.&nbsp;&nbsp;<i class="fas fa-gas-pump"></i></li>
+                    </ul>
+                </div>
+                <a class="primary-btn" href="#">Read More</a>
+            </div>
+            <div class="col-lg-4 col-md-12 home-about-right relative">
+                <img src="img/s2.jpg" alt="">	
+            </div>
+        </div>
+    </div>	
+</section>
+<!-- End home-about Area -->
+
+
+<!-- Start service Area -->
+<section class="service-area section-gap" id="service">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 pb-30 header-text text-center">
+                <h1 class="mb-10">PRODUCTS</h1>
+                <p>
+                    Who are in extremely love with eco friendly system..
+                </p>
+            </div>
+        </div>						
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="single-service">
+                    <div class="thumb">
+                        <img src="img/s1.jpg" alt="">									
+                    </div>
+                    <h4>FABRICS</h4>
+                    <p>
+                        At Sudevi Chemicals, we cater to the most demanding parameters of fabrics. This includes knitted fabrics like single jerseys, PQ, Fleece, Twill, Pknit and more.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="single-service">
+                    <div class="thumb">
+                        <img src="img/s2.jpg" alt="">									
+                    </div>
+                    <h4>GARMENTS</h4>
+                    <p>
+                        At Sudevi Chemicals, we ensure outstanding control over the quality of the garments.
+                    </p>
+                </div>
+            </div>
+
+
+        </div>
+        <div class="row  justify-content-center">
+            <div class="col-lg-4 offset-2">
+                <!--                <h6 class="text-uppercase">Don’t look further, here is the key</h6>-->
+                <div class="align-items-center">
+                    <a href="about.php" class="primary-btn header-btn text-uppercase">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>	
+</section>
+<!-- End service Area -->
+
+
+<!-- Start faq Area -->
+<section class="faq-area section-gap relative">
+    <div class="overlay overlay-bg"></div>
+    <div class="container">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-3 col-md-6">
+                <div class="single-faq">
+                    <div class="circle">
+                        <div class="inner"></div>
+                    </div>
+                    <h5><span class="counter">2</span>K+</h5>
+                    <p>
+                        Projects Completed
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="single-faq">
+                    <div class="circle">
+                        <div class="inner"></div>
+                    </div>
+                    <h5><span class="counter">5.5</span>K</h5>
+                    <p>
+                        Total Employees
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="single-faq">
+                    <div class="circle">
+                        <div class="inner"></div>
+                    </div>
+                    <h5 class="counter">959</h5>
+                    <p>
+                        Happy Clients
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="single-faq">
+                    <div class="circle">
+                        <div class="inner"></div>
+                    </div>
+                    <h5 class="counter">367</h5>
+                    <p>
+                        Tickets Submited
+                    </p>
+                </div>
+            </div>																		
+        </div>
+    </div>	
+</section>
+<!-- End faq Area -->
+
+
+<!-- Start project Area -->
+<section class="project-area section-gap" id="project">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 pb-30 header-text text-center">
+                <h1 class="mb-10">Latest Finished Projects</h1>
+                <p>
+                    Who are in extremely love with eco friendly system..
+                </p>
+            </div>
+        </div>						
+        <div class="row">
+            <div class="col-lg-8 col-md-8">
+                <a href="img/p1.jpg" class="img-gal">
+                    <img class="img-fluid single-project" src="img/p1.jpg" alt="">
+                </a>	
+            </div>
+            <div class="col-lg-4 col-md-4">
+                <a href="img/p2.jpg" class="img-gal">
+                    <img class="img-fluid single-project" src="img/p2.jpg" alt="">
+                </a>	
+            </div>						
+            <div class="col-lg-6 col-md-6">
+                <a href="img/p3.jpg" class="img-gal">
+                    <img class="img-fluid single-project" src="img/p3.jpg" alt="">
+                </a>	
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <a href="img/p4.jpg" class="img-gal">
+                    <img class="img-fluid single-project" src="img/p4.jpg" alt="">
+                </a>	
+            </div>		
+        </div>
+    </div>	
+</section>
+<!-- End project Area -->
+
+<!-- Start feedback Area -->
+<section class="feedback-area section-gap relative" id="feedback">
+    <div class="overlay overlay-bg"></div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 pb-30 header-text text-center">
+                <h1 class="mb-10 text-white">Enjoy our Client’s Feedback</h1>
+                <p class="text-white">
+                    Who are in extremely love with eco friendly system..
+                </p>
+            </div>
+        </div>			
+        <div class="row feedback-contents justify-content-center align-items-center">
+            <div class="col-lg-6 feedback-left relative d-flex justify-content-center align-items-center">
+                <div class="overlay overlay-bg"></div>
+                <a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM"><img class="img-fluid" src="img/play-btn.png" alt=""></a>
+            </div>
+            <div class="col-lg-6 feedback-right">
+                <div class="active-review-carusel">
+                    <div class="single-feedback-carusel">
+                        <div class="title d-flex flex-row">
+                            <h4 class="text-white pb-10">Fannie Rowe</h4>
+                            <div class="star">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star"></span>
+                                <span class="fa fa-star"></span>								
+                            </div>										
+                        </div>
+                        <p class="text-white">
+                            Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+                        </p>
+                    </div>
+                    <div class="single-feedback-carusel">
+                        <div class="title d-flex flex-row">
+                            <h4 class="text-white pb-10">Fannie Rowe</h4>
+                            <div class="star">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star"></span>								
+                            </div>										
+                        </div>
+                        <p class="text-white">
+                            Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+                        </p>
+                    </div>
+                    <div class="single-feedback-carusel">
+                        <div class="title d-flex flex-row">
+                            <h4 class="text-white pb-10">Fannie Rowe</h4>
+                            <div class="star">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked	"></span>								
+                            </div>										
+                        </div>
+                        <p class="text-white">
+                            Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+                        </p>
+                    </div>																
+                </div>
+            </div>
+        </div>
+
+    </div>	
+</section>
+<!-- End feedback Area -->
+
+
 
 <?php
 include 'view/layout/footer.php';

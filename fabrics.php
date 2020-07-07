@@ -1,156 +1,80 @@
 <?php
 include 'view/layout/header.php';
 ?>
+<!-- start banner Area -->
+<section class="banner-area relative" id="home">    
+    <div class="overlay overlay-bg"></div>
+    <div class="container">
+        <div class="row d-flex align-items-center justify-content-center">
+            <div class="about-content col-lg-12">
+                <h1 class="text-white">
+                    Fabrics              
+                </h1>   
+                <p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="#"> Fabrics</a></p>
+            </div>                                          
+        </div>
+    </div>
+</section>
+<!-- End banner Area --> 
+<!-- Start blog-posts Area -->
+<section class="blog-posts-area section-gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 post-list blog-post-list">
+                <div class="single-post">
+                    <a href="#">
+                        <h1>
+                            Fabrics
+                        </h1>
+                    </a>
+                    <div class="content-wrap">
+                        <p>Due to our automated and controlled production practices with the latest machinery, we are able to cater to the most demanding and stringent physical parameters in the realm of fabric production. We oversee the production of knitted fabrics like single jerseys, PQ, Fleece, Twill, Pknit, etc.&nbsp;</p>
 
-	<!-- start banner Area -->
-    <section class="banner-area relative" id="home">	
-				<div class="overlay overlay-bg"></div>
-				<div class="container">				
-					<div class="row d-flex align-items-center justify-content-center">
-						<div class="about-content col-lg-12">
-							<h1 class="text-white">
-								Fabrics				
-							</h1>	
-							<p class="text-white link-nav"><a href="/">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="fabrics.php"> Fabrics</a></p>
-						</div>	
-					</div>
-				</div>
-			</section>
-            <!-- End banner Area -->
-            <!-- Start Sample Area -->
-			<section class="sample-text-area">
-				<div class="container">
-					<h3 class="text-heading">Text Sample</h3>
-					<p class="sample-text">
-						Every avid independent filmmaker has <b>Bold</b> about making that <i>Italic</i> interest documentary, or short film to show off their creative prowess. Many have great ideas and want to “wow” the<sup>Superscript</sup> scene, or video renters with their big project.  But once you have the<sub>Subscript</sub> “in the can” (no easy feat), how do you move from a <del>Strike</del> through of master DVDs with the <u>“Underline”</u> marked hand-written title inside a secondhand CD case, to a pile of cardboard boxes full of shiny new, retail-ready DVDs, with UPC barcodes and polywrap sitting on your doorstep?  You need to create eye-popping artwork and have your project replicated. Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a helpful option to ensure a professional end result, but to help with your DVD replication project, here are 4 easy steps to follow for good DVD replication results: 
+                        <p>Below are some of the many products we manufacture in house.&nbsp;</p>
 
-					</p>
-				</div>
-			</section>
-            <!-- End Sample Area -->
-            
+                        <ul class="unordered-list">
+                            <li>  100% Cotton</li>
 
-            <!-- Start service Area -->
-			<section class="service-area section-gap" id="service">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-12 pb-30 header-text text-center">
-							<h1 class="mb-10">Our Offered Services to you</h1>
-							<p>
-								Who are in extremely love with eco friendly system..
-							</p>
-						</div>
-					</div>						
-					<div class="row">
-						<div class="col-lg-4">
-							<div class="single-service">
-								<div class="thumb">
-									<img src="img/s1.jpg" alt="">									
-								</div>
-								<h4>Automotive Engineering</h4>
-								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-4">
-							<div class="single-service">
-								<div class="thumb">
-									<img src="img/s2.jpg" alt="">									
-								</div>
-								<h4>Construction & Engineering</h4>
-								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-4">
-							<div class="single-service">
-								<div class="thumb">
-									<img src="img/s3.jpg" alt="">									
-								</div>
-								<h4>Industrial Engineering</h4>
-								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
-								</p>
-							</div>
-						</div>												
-					</div>
-				</div>	
-			</section>
-            <!-- End service Area -->	
-            
+                            <li>  Cotton x Polyester&nbsp;</li>
 
-            <!-- Start feedback Area -->
-			<section class="feedback-area aboutus-feedback section-gap" id="feedback">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-12 pb-60 header-text text-center">
-							<h1 class="mb-10">Enjoy our Client’s Feedback</h1>
-							<p>
-								Who are in extremely love with eco friendly system..
-							</p>
-						</div>
-					</div>			
-					<div class="row feedback-contents justify-content-center align-items-center">
-						<div class="col-lg-6 feedback-left relative d-flex justify-content-center align-items-center">
-							<div class="overlay overlay-bg"></div>
-							<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM"><img class="img-fluid" src="img/play-btn.png" alt=""></a>
-						</div>
-						<div class="col-lg-6 feedback-right">
-							<div class="active-review-carusel">
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>								
-										</div>										
-									</div>
-									<p>
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>								
-										</div>										
-									</div>
-									<p>
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked	"></span>								
-										</div>										
-									</div>
-									<p>
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>																
-							</div>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End feedback Area -->
+                            <li>  Cotton x Elastane&nbsp;</li>
+
+                            <li>  Cotton x Modal&nbsp;</li>
+
+                            <li>  Cotton x Viscose&nbsp;</li>
+
+                            <li>  100% Viscose&nbsp;</li>
+
+                            <li>  Viscose x Elastane</li>
+
+                            <li>  Viscose x Polyester</li>
+
+                            <li>  100 % Polyester&nbsp;</li>
+
+                            <li>   Polyester x Elastane</li>
+
+                            <li>   Polyester x Wool&nbsp;</li>
+
+                            <li>   Modal x Elastane</li>
+                        </ul>
+
+                    </div>
+
+                </div>																		
+            </div>
+            <div class="col-lg-4 sidebar">
+                <?php
+                include 'view/layout/manufacturingsidebar.php';
+                ?>
+
+            </div>
+        </div>
+    </div>	
+</section>
+<!-- End blog-posts Area -->
+
 
 <?php
 include 'view/layout/footer.php';
 ?>
+

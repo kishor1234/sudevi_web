@@ -10,7 +10,7 @@
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.
                     </p>
                     <p class="footer-text">
-                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://pixelatedegg.com/" target="_blank">Pixelated Egg Digital Ventures - 2019</a> | <a href="termsand conditions.php">Terms and Conditions</a> | <a href="privacypolicy.php">Privacy Policy</a>
+                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fas fa-heart" aria-hidden="true"></i> by <a href="https://pixelatedegg.com/" target="_blank">Pixelated Egg Digital Ventures - 2019</a> | <a href="termsand conditions.php">Terms and Conditions</a> | <a href="privacypolicy.php">Privacy Policy</a>
                     </p>								
                 </div>
             </div>
@@ -19,11 +19,11 @@
                     <h6>Newsletter</h6>
                     <p>Stay update with our latest</p>
                     <div class="" id="mc_embed_signup">
-                        <form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
+                        <form target="_blank" novalidate="true" action="#" method="get" class="form-inline">
                             <input class="form-control" name="EMAIL" placeholder="Enter Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '" required="" type="email">
                             <button class="click-btn btn btn-default"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
                             <div style="position: absolute; left: -5000px;">
-                                <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
+                                <input  name="email" tabindex="-1" value="" type="email">
                             </div>
 
                             <div class="info"></div>
@@ -36,10 +36,10 @@
                     <h6>Follow Us</h6>
                     <p>Let us be social</p>
                     <div class="footer-social d-flex align-items-center">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
-                        <a href="#"><i class="fa fa-behance"></i></a>
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                        <a href="#"><i class="fab fa-behance"></i></a>
                     </div>
                 </div>
             </div>							
@@ -50,7 +50,8 @@
 
 <script src="js/vendor/jquery-2.2.4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="js/vendor/bootstrap.min.js"></script>			
+<script src="js/vendor/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.min.js" integrity="sha512-M+hXwltZ3+0nFQJiVke7pqXY7VdtWW2jVG31zrml+eteTP7im25FdwtLhIBTWkaHRQyPrhO2uy8glLMHZzhFog==" crossorigin="anonymous"></script>
 <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>-->
 <script src="js/easing.min.js"></script>			
 <script src="js/hoverIntent.js"></script>
@@ -58,7 +59,7 @@
 <script src="js/jquery.ajaxchimp.min.js"></script>
 <script src="js/jquery.magnific-popup.min.js"></script>	
 <script src="js/owl.carousel.min.js"></script>	
-<script src="s/hexagons.min.js"></script>							
+<script src="js/hexagons.min.js"></script>							
 <script src="js/jquery.nice-select.min.js"></script>	
 <script src="js/jquery.counterup.min.js"></script>
 <script src="js/waypoints.min.js"></script>							
