@@ -10,7 +10,7 @@
                     “Sustainability isn’t about doing less harm, it’s about doing more good.” - Jochen Zeitz    
                     </p>
                     <p class="footer-text">
-                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fas fa-heart" aria-hidden="true"></i> by <a href="https://pixelatedegg.com/" target="_blank">Pixelated Egg Digital Ventures - 2019</a> | <a href="termsand conditions.php">Terms and Conditions</a> | <a href="privacypolicy.php">Privacy Policy</a>
+                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fas fa-heart" aria-hidden="true"></i> by <a href="https://pixelatedegg.com/" target="_blank">Pixelated Egg Digital Ventures - 2020</a> 
                     </p>								
                 </div>
             </div>
@@ -31,10 +31,14 @@
                     </div>
                 </div>
             </div>						
-            <div class="col-lg-2 col-md-6 col-sm-6 social-widget">
+            <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h6>Follow Us</h6>
-                    <p>Let us be social</p>
+                    <h6>HELP</h6>
+                    <!--<p>Let us be social</p>-->
+                    <div class="footer-text">
+                        <a href="termsand conditions.php">Terms and Conditions</a> <br>
+                        <a href="privacypolicy.php">Privacy Policy</a>
+                    </div>
                     <!--<div class="footer-social d-flex align-items-center">
                         <a href="#"><i class="fab fa-facebook"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
