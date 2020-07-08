@@ -43,16 +43,16 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 col-sm-6 col-4 header-top-left no-padding">
-                            <ul>
+                            <!--<ul>
                                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
                                 <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                            </ul>
+                            </ul>-->
                         </div>
                         <div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
-                            <a href="tel:+880 012 3654 896">+880 012 3654 896</a>
-                            <a href="mailto:support@colorlib.com">support@colorlib.com</a>				
+                            <a href="tel:+919879532383">+919879532383</a>
+                            <a href="mailto:rja@sudevi.in">rja@sudevi.in</a>				
                         </div>
                     </div>			  					
                 </div>
@@ -68,7 +68,7 @@
                             <li><a href="about.php">About Us</a></li>
                             <li class="menu-has-children"><a href="#">Manufacturing</a>
                                 <ul>
-                                    <li><a href="machinery.php">Machinery</a></li>
+                                    <!--<li><a href="machinery.php">Machinery</a></li>-->
                                     <li><a href="dyeing.php">Dyeing</a></li>
                                     <li><a href="garmenting.php">Garmenting</a></li>
                                 </ul>

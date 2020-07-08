@@ -35,12 +35,12 @@
                 <div class="single-footer-widget">
                     <h6>Follow Us</h6>
                     <p>Let us be social</p>
-                    <div class="footer-social d-flex align-items-center">
+                    <!--<div class="footer-social d-flex align-items-center">
                         <a href="#"><i class="fab fa-facebook"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-dribbble"></i></a>
                         <a href="#"><i class="fab fa-behance"></i></a>
-                    </div>
+                    </div>-->
                 </div>
             </div>							
         </div>
