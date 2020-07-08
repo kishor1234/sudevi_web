@@ -31,23 +31,17 @@ include 'view/layout/header.php';
         <div class="row justify-content-center">
             <div class="col-md-12 pb-30 header-text text-center">
                 <h1 class="mb-10">MANUFACTURING</h1>
-<!--                <p>
-                    Who are in extremely love with eco friendly system..
-                </p>-->
+                <h5>That cannot be compromised</h5>
+                <p>
+                    Our advanced cutting-age technology backed with the latest machinery ensures we provide nothing but the best for the garment and fabric manufacturers.
+
+                </p>
             </div>
         </div>	
         <div class="row">
-            <div class="col-lg-4">	
-                <div class="single-cat d-flex flex-column">
-                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-magic-wand"></span></span></a>
-                    <h4 class="mb-20" style="margin-top: 23px;">That cannot be compromised</h4>
-                    <p>
-                        Our advanced cutting-age technology backed with the latest machinery ensures we provide nothing but the best for the garment and fabric manufacturers.
-                    </p>
-                </div>															
-            </div>
-            <div class="col-lg-4">	
-                <div class="single-cat">
+
+            <div class="col-lg-6">	
+                <div class="single-cat cat-extra">
                     <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-rocket"></span></span></a>
                     <h4 class="mt-40 mb-20">Dyeing</h4>
                     <p>
@@ -57,8 +51,8 @@ include 'view/layout/header.php';
                     </p>
                 </div>															
             </div>
-            <div class="col-lg-4">
-                <div class="single-cat">
+            <div class="col-lg-6">
+                <div class="single-cat cat-extra">
                     <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bug"></span></span></a>
                     <h4 class="mt-40 mb-20">Garmenting</h4>
                     <p>
@@ -73,7 +67,22 @@ include 'view/layout/header.php';
 
 
 <!-- Start home-about Area -->
-<section class="home-about-area section-gap" id="about">
+<section class="banner-area relative certificat-area">	
+    <div class="overlay overlay-bg"></div>
+    <div class="container">				
+        <div class="row d-flex align-items-center justify-content-center">
+            <div class="about-content col-lg-12">
+                <h1 class="text-white">
+                    CERTIFICATIONS AND PROGRAMS				
+                </h1>	
+                <br>
+                <a class="primary-btn" href="certificationsandprograms.php">View More</a>
+            </div>	
+        </div>
+    </div>
+</section>
+
+<!--<section class="home-about-area section-gap" id="about">
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-8 col-md-12 home-about-left">
@@ -81,14 +90,14 @@ include 'view/layout/header.php';
                     CERTIFICATIONS & PROGRAMS
                 </h1>
                 <p class="sub">Our foremost focus is to reduce our carbon footprint and minimise environmental load.</p>
-                <div class="pb-20" id="ml-30">
-                    <ul class="unordered-list">
-                        <li>We consume 50% less water than traditional factories and dyers.&nbsp;&nbsp;<i class="fas fa-tint"></i></li>
-                        <li>We recycle up-to 50% of the effluent generated.&nbsp;&nbsp;<i class="fas fa-recycle"></i></li>
-                        <li>Our machines are highly energy efficient and consume only 30 - 40% of the electricity.&nbsp;&nbsp;<i class="far fa-lightbulb"></i> </li>
-                        <li>Our fuel consumption is 50% less than other dyeing factories which helps us preserve <br>fossil fuels.&nbsp;&nbsp;<i class="fas fa-gas-pump"></i></li>
-                    </ul>
-                </div>
+                                <div class="pb-20" id="ml-30">
+                                    <ul class="unordered-list">
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                    </ul>
+                                </div>
                 <a class="primary-btn" href="#">Read More</a>
             </div>
             <div class="col-lg-4 col-md-12 home-about-right relative">
@@ -96,8 +105,61 @@ include 'view/layout/header.php';
             </div>
         </div>
     </div>	
-</section>
+</section>-->
 <!-- End home-about Area -->
+<section class="cat-area section-gap" id="feature">
+    <div class="container">	
+        <div class="row justify-content-center">
+            <div class="col-md-12 pb-30 header-text text-center">
+                <h1 class="mb-10">Striving towards Sustainability</h1>
+
+                <p>
+                    Our foremost focus is to reduce our carbon footprint and minimise environmental load.
+                </p>
+            </div>
+        </div>	
+        <div class="row">
+            <div class="col-lg-3">	
+                <div class="single-cat">
+                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="fas fa-tint"></span></span></a>
+                    <!--                    <h4 class="mt-40 mb-20">Dyeing</h4>-->
+                    <p>
+                        We consume 50% less water than traditional factories and dyers.&nbsp;&nbsp;
+                    </p>
+                </div>															
+            </div>
+            <div class="col-lg-3">	
+                <div class="single-cat">
+                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="fas fa-recycle"></span></span></a>
+                    <!--<h4 class="mt-40 mb-20">Dyeing</h4>-->
+                    <p>
+                        We recycle up-to 50% of the effluent generated.&nbsp;&nbsp;
+
+                    </p>
+                </div>															
+            </div>
+            <div class="col-lg-3">	
+                <div class="single-cat">
+                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="far fa-lightbulb"></span></span></a>
+                    <!--                    <h4 class="mt-40 mb-20">Dyeing</h4>-->
+                    <p>
+                        Our machines are highly energy efficient and consume only 30 - 40% of the electricity.&nbsp;&nbsp;<i class=""></i>
+
+                    </p>
+                </div>															
+            </div>
+            <div class="col-lg-3">
+                <div class="single-cat">
+                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="fas fa-gas-pump"></span></span></a>
+                    <!--                    <h4 class="mt-40 mb-20">Garmenting</h4>-->
+                    <p>
+                        Our fuel consumption is 50% less than other dyeing factories which helps us preserve <br>fossil fuels.&nbsp;&nbsp;
+                    </p>
+                </div>							
+            </div>
+        </div>
+    </div>	
+</section>
 
 
 <!-- Start service Area -->
@@ -107,7 +169,7 @@ include 'view/layout/header.php';
             <div class="col-md-12 pb-30 header-text text-center">
                 <h1 class="mb-10">PRODUCTS</h1>
                 <p>
-                    Who are in extremely love with eco friendly system..
+                    Who are in extremely love with eco friendly system.
                 </p>
             </div>
         </div>						
@@ -121,6 +183,7 @@ include 'view/layout/header.php';
                     <p>
                         At Sudevi Chemicals, we cater to the most demanding parameters of fabrics. This includes knitted fabrics like single jerseys, PQ, Fleece, Twill, Pknit and more.
                     </p>
+                    <a href="fabrics.php" class="primary-btn header-btn text-uppercase">Read More</a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -132,19 +195,13 @@ include 'view/layout/header.php';
                     <p>
                         At Sudevi Chemicals, we ensure outstanding control over the quality of the garments.
                     </p>
+                    <a href="garments.php" class="primary-btn header-btn text-uppercase">Read More</a>
                 </div>
             </div>
 
 
         </div>
-        <div class="row  justify-content-center">
-            <div class="col-lg-4 offset-2">
-                <!--                <h6 class="text-uppercase">Don’t look further, here is the key</h6>-->
-                <div class="align-items-center">
-                    <a href="about.php" class="primary-btn header-btn text-uppercase">Read More</a>
-                </div>
-            </div>
-        </div>
+       
     </div>	
 </section>
 <!-- End service Area -->

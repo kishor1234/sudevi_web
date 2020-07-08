@@ -35,6 +35,9 @@
             #ml-30{
                 margin-left: 30px !important;
             }
+            .sidebar-ct {
+                margin: 11px auto;
+            }
         </style>
     </head>
     <body>	
@@ -79,7 +82,7 @@
                                 <ul>
                                     <li><a href="fabrics.php">Fabrics</a></li>
                                     <li><a href="garments.php">Garments</a></li>
-                                    <li><a href="download.php">Download Link for Dying and Garments PDF file</a></li>
+                                    <!--<li><a href="download.php">Download Link for Dying and Garments PDF file</a></li>-->
                                 </ul>
                             </li>						          
                             <li><a href="contact.php">Contact Us</a></li>

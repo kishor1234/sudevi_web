@@ -12,7 +12,7 @@ include 'view/layout/header.php';
                 <h1 class="text-white">
                     Machinery				
                 </h1>	
-                <p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="machinery.php"> Machinery</a></p>
+                <!--<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="machinery.php"> Machinery</a></p>-->
             </div>	
         </div>
     </div>
