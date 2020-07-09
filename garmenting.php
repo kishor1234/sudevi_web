@@ -10,7 +10,7 @@ include 'view/layout/header.php';
                 <h1 class="text-white">
                     Garmenting              
                 </h1>   
-                <!--<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="#">Garmenting</a></p>-->
+                <!--<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="javascript:void(0)">Garmenting</a></p>-->
             </div>                                          
         </div>
     </div>
@@ -22,7 +22,7 @@ include 'view/layout/header.php';
         <div class="row">
             <div class="col-lg-12 post-list blog-post-list">
                 <div class="single-post">
-                    <a href="#">
+                    <a href="javascript:void(0)">
                         <h1 class="mt-0">
                             Garmenting
                         </h1>

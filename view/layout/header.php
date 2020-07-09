@@ -73,7 +73,7 @@
                         <ul class="nav-menu">
                             <li class="menu-active"><a href="index.php">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
-                            <li class="menu-has-children"><a href="#">Manufacturing</a>
+                            <li class="menu-has-children"><a href="javascript:void(0)">Manufacturing</a>
                                 <ul>
                                     <!--<li><a href="machinery.php">Machinery</a></li>-->
                                     <li><a href="dyeing.php">Dyeing</a></li>
@@ -82,7 +82,7 @@
                             </li>
                             <li><a href="certificationsandprograms.php">Certifications and Programs</a></li>
                             <li><a href="sustainability.php">Sustainability</a></li>
-                            <li class="menu-has-children"><a href="#">Product</a>
+                            <li class="menu-has-children"><a href="javascript:void(0)">Product</a>
                                 <ul>
                                     <li><a href="fabrics.php">Fabrics</a></li>
                                     <li><a href="garments.php">Garments</a></li>

@@ -42,7 +42,7 @@ include 'view/layout/header.php';
 
             <div class="col-lg-6">	
                 <div class="single-cat cat-extra">
-                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-rocket"></span></span></a>
+                    <a href="javascript:void(0)" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-rocket"></span></span></a>
                     <h4 class="mt-40 mb-20">Dyeing</h4>
                     <p>
                         Our Dyeing facility is equipped with a modern lab, dyeing systems, a diverse finishing machines, along with automated packaging line
@@ -53,7 +53,7 @@ include 'view/layout/header.php';
             </div>
             <div class="col-lg-6">
                 <div class="single-cat cat-extra">
-                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bug"></span></span></a>
+                    <a href="javascript:void(0)" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bug"></span></span></a>
                     <h4 class="mt-40 mb-20">Garmenting</h4>
                     <p>
                         Our Garment manufacturing facility is equipped with inhouse provisions for Cutting, Stitching and Finishing equipment that adds a substantial value to the finished product.
@@ -121,7 +121,7 @@ include 'view/layout/header.php';
         <div class="row">
             <div class="col-lg-3">	
                 <div class="single-cat">
-                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="fas fa-tint"></span></span></a>
+                    <a href="javascript:void(0)" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="fas fa-tint"></span></span></a>
                     <!--                    <h4 class="mt-40 mb-20">Dyeing</h4>-->
                     <p>
                         We consume 50% less water than traditional factories and dyers.&nbsp;&nbsp;
@@ -130,7 +130,7 @@ include 'view/layout/header.php';
             </div>
             <div class="col-lg-3">	
                 <div class="single-cat">
-                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="fas fa-recycle"></span></span></a>
+                    <a href="javascript:void(0)" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="fas fa-recycle"></span></span></a>
                     <!--<h4 class="mt-40 mb-20">Dyeing</h4>-->
                     <p>
                         We recycle up-to 50% of the effluent generated.&nbsp;&nbsp;
@@ -140,7 +140,7 @@ include 'view/layout/header.php';
             </div>
             <div class="col-lg-3">	
                 <div class="single-cat">
-                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="far fa-lightbulb"></span></span></a>
+                    <a href="javascript:void(0)" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="far fa-lightbulb"></span></span></a>
                     <!--                    <h4 class="mt-40 mb-20">Dyeing</h4>-->
                     <p>
                         Our machines are highly energy efficient and consume only 30 - 40% of the electricity.&nbsp;&nbsp;<i class=""></i>
@@ -150,7 +150,7 @@ include 'view/layout/header.php';
             </div>
             <div class="col-lg-3">
                 <div class="single-cat">
-                    <a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="fas fa-gas-pump"></span></span></a>
+                    <a href="javascript:void(0)" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="fas fa-gas-pump"></span></span></a>
                     <!--                    <h4 class="mt-40 mb-20">Garmenting</h4>-->
                     <p>
                         Our fuel consumption is 50% less than other dyeing factories which helps us preserve <br>fossil fuels.&nbsp;&nbsp;
