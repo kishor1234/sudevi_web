@@ -50,7 +50,6 @@ include 'view/layout/header.php';
                     </div>
                 </div>
                 <div class="single-post">
-                    <h3 class="mb-30 ">Finishing</h3>
                     <div class="row">
                         <div class="col-lg-4">
                             <img class="img-fluid pb-10" src="img/row/2.jpg" alt="">

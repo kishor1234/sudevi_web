@@ -17,7 +17,7 @@ include 'view/layout/header.php';
 </section>
 <!-- End banner Area --> 
 <!-- Start blog-posts Area -->
-<section class="blog-posts-area section-gap">
+<section class="cat-area section-gap" id="feature">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 ">
