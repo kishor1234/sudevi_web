@@ -20,7 +20,7 @@ include 'view/layout/header.php';
 <section class="blog-posts-area section-gap">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 post-list blog-post-list">
+            <div class="col-lg-12 post-list blog-post-list">
                 <div class="single-post">
                     <a href="#">
                         <h1 class="mt-0">
@@ -28,25 +28,20 @@ include 'view/layout/header.php';
                         </h1>
                     </a>
                     <div class="content-wrap">
-                        <p>Our state of the art garment manufacturing unit is made to provide us the capability of producing fabrics with the right specifications as deemed appropriate by our clientele.</p>
+                        <p class="text-justify">Our state of the art garment manufacturing unit is made to provide us the capability of producing fabrics with the right specifications as deemed appropriate by our clientele.</p>
 
-                        <p>For this, we have equipped our facilities with Cutting, Stitching and Finishing equipment that provide results of great quality.</p>
-
+                        <p class="text-justify">For this, we have equipped our facilities with Cutting, Stitching and Finishing equipment that provide results of great quality.</p>
+                        <center>
+                            <a href="Sudevi brochure.pdf" class="primary-btn header-btn text-uppercase">Know our Machinery</a>
+                        </center>
 
                     </div>
 
                 </div>																		
             </div>
-            <div class="col-lg-4 sidebar">
-                <?php
-                include 'view/layout/manufacturingsidebar.php';
-                ?>
 
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="section-top-border">
+            <div class="col-lg-12 post-list blog-post-list">
+                <div class="single-post">
                     <h3 class="mb-30">Cutting</h3>
                     <div class="row">
                         <div class="col-lg-8">
@@ -68,7 +63,7 @@ include 'view/layout/header.php';
                     </div>
 
                 </div>
-                <div class="section-top-border">
+                <div class="single-post">
                     <h3 class="mb-30 text-right">Stitching</h3>
                     <div class="row">
                         <div class="col-lg-4">
@@ -375,7 +370,7 @@ include 'view/layout/header.php';
                                         </div>
                                     </div>
                                 </div>-->
-                <div class="section-top-border">
+                <div class="single-post">
                     <h3 class="mb-30 ">Finishing</h3>
                     <div class="row">
                         <div class="col-lg-8">
@@ -397,9 +392,7 @@ include 'view/layout/header.php';
 
                     </div>
                 </div>
-                <center>
-                    <a href="Sudevi brochure.pdf" class="primary-btn header-btn text-uppercase">View Machinery</a>
-                </center>
+
 
             </div>
         </div>

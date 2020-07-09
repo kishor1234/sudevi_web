@@ -38,6 +38,10 @@
             .sidebar-ct {
                 margin: 11px auto;
             }
+            #fab-image{
+                width: 40px !important;
+                height: auto !important;
+            }
         </style>
     </head>
     <body>	

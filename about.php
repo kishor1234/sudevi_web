@@ -59,7 +59,7 @@ include 'view/layout/header.php';
                     Being mindful of the above, all the machines in our factories are purchased and used with due consideration of its impact on the environment and how the procured units may assist in actively reducing environmental load.
 
                 </p>
-                <a class="primary-btn" href="#">Get Started Now</a>
+                <a class="primary-btn" href="contact.php">Connect with us</a>
             </div>
             <div class="col-lg-3 col-md-12 home-about-right relative" style="margin-top: 20px !important;">
 

@@ -20,7 +20,7 @@ include 'view/layout/header.php';
 <section class="blog-posts-area section-gap">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 post-list blog-post-list">
+            <div class="col-lg-12 post-list blog-post-list">
                 <div class="single-post">
                     <a href="#">
                         <h1 class="mt-0">
@@ -34,14 +34,9 @@ include 'view/layout/header.php';
 
                 </div>																		
             </div>
-            <div class="col-lg-4 sidebar">
-                <?php
-                include 'view/layout/manufacturingsidebar.php';
-                ?>
 
-            </div>
-            <div class="col-lg-12">
-                <div class="section-top-border">
+            <div class="col-lg-12 post-list blog-post-list">
+                <div class="single-post">
                     <h3 class="mb-30 ">Finishing</h3>
                     <div class="row">
                         <div class="col-lg-8">
@@ -54,7 +49,7 @@ include 'view/layout/header.php';
 
                     </div>
                 </div>
-                <div class="section-top-border">
+                <div class="single-post">
                     <h3 class="mb-30 ">Finishing</h3>
                     <div class="row">
                         <div class="col-lg-4">
@@ -68,8 +63,9 @@ include 'view/layout/header.php';
 
                     </div>
                 </div>
-                <p class="text-justify">Today, we aim to evolve and become an industry leader, not only as a player in the field of dyeing and fabric processing, but also as a player in implementing sustainable industrialization across the board.</p>
-
+                <div class="single-post">
+                    <p class="text-justify">Today, we aim to evolve and become an industry leader, not only as a player in the field of dyeing and fabric processing, but also as a player in implementing sustainable industrialization across the board.</p>
+                </div>
             </div>
         </div>
     </div>	

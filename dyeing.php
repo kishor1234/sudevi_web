@@ -20,7 +20,7 @@ include 'view/layout/header.php';
 <section class="blog-posts-area section-gap">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 post-list blog-post-list">
+            <div class="col-lg-12 post-list blog-post-list">
                 <div class="single-post">
                     <a href="#">
                         <h1 class="mt-0">
@@ -28,21 +28,19 @@ include 'view/layout/header.php';
                         </h1>
                     </a>
                     <div class="content-wrap">
-                        <p>
+                        <p class="text-justify">
                             To achieve and maintain our high standards, we employ the most advanced techniques with the latest machinery available to the garment and fabric manufacturers. Our dyeing facility is equipped with a state-of-the-art lab, dyeing systems, and a variety of finishing machines that provide unique touches as per the client’s requirements. Our packaging line involves an automated packaging line that involves zero human intervention, to ensure zero-handling of fabrics.
                         </p>
+                        <center>
+                            <a href="Sudevi brochure.pdf" class="primary-btn header-btn text-uppercase">Know our Machinery</a>
+                        </center>
                     </div>
 
                 </div>																		
             </div>
-            <div class="col-lg-4 sidebar sidebar-ct">
-                <?php
-                include 'view/layout/manufacturingsidebar.php';
-                ?>
 
-            </div>
-            <div class="col-lg-12">
-                <div class="section-top-border">
+            <div class="col-lg-12 post-list blog-post-list">
+                <div class="single-post">
                     <h3 class="mb-30">Lab</h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -59,7 +57,7 @@ include 'view/layout/header.php';
                         </div>
                     </div>
                 </div>
-                <div class="section-top-border">
+                <div class="single-post">
                     <h3 class="mb-30 text-right" >Dyeing</h3>
                     <div class="row">
 
@@ -79,7 +77,7 @@ include 'view/layout/header.php';
                         </div>
                     </div>
                 </div>
-                <div class="section-top-border">
+                <div class="single-post">
                     <h3 class="mb-30"> Finishing Tubular Finishing</h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -94,7 +92,7 @@ include 'view/layout/header.php';
                         </div>
                     </div>
                 </div>
-                <div class="section-top-border ">
+                <div class="single-post">
                     <h3 class="mb-30 text-right">Open-Width Finishing</h3>
                     <div class="row">
 
@@ -112,7 +110,7 @@ include 'view/layout/header.php';
                         </div>
                     </div>
                 </div>
-                <div class="section-top-border">
+                <div class="single-post">
                     <h3 class="mb-30"> Packaging</h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -127,7 +125,7 @@ include 'view/layout/header.php';
                         </div>
                     </div>
                 </div>
-                <div class="section-top-border">
+                <div class="single-post">
                     <h3 class="mb-30 text-right">Effluent Treatment and recycling</h3>
                     <div class="row">
 
@@ -145,9 +143,7 @@ include 'view/layout/header.php';
                         </div>
                     </div>
                 </div>
-                <center>
-                    <a href="Sudevi brochure.pdf" class="primary-btn header-btn text-uppercase">View Machinery</a>
-                </center>
+
             </div>
         </div>
     </div>	

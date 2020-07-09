@@ -18,7 +18,7 @@ include 'view/layout/header.php';
                     A home that's adding colours to your life and fabrics since the last 5 decades.
 
                 </p>
-                <a href="about.php" class="primary-btn header-btn text-uppercase">Read More</a>
+                <a href="about.php" class="primary-btn header-btn text-uppercase">Our Journey</a>
             </div>												
         </div>
     </div>
@@ -76,7 +76,7 @@ include 'view/layout/header.php';
                     CERTIFICATIONS AND PROGRAMS				
                 </h1>	
                 <br>
-                <a class="primary-btn" href="certificationsandprograms.php">View More</a>
+                <a class="primary-btn" href="certificationsandprograms.php">Know More</a>
             </div>	
         </div>
     </div>
@@ -169,7 +169,7 @@ include 'view/layout/header.php';
             <div class="col-md-12 pb-30 header-text text-center">
                 <h1 class="mb-10">PRODUCTS</h1>
                 <p>
-                    Who are in extremely love with eco friendly system.
+                    We thrive on our eco friendly system
                 </p>
             </div>
         </div>						
@@ -180,10 +180,11 @@ include 'view/layout/header.php';
                         <img src="img/row/fabric.jpg" alt="">									
                     </div>
                     <h4>FABRICS</h4>
+
                     <p>
                         At Sudevi Chemicals, we cater to the most demanding parameters of fabrics. This includes knitted fabrics like single jerseys, PQ, Fleece, Twill, Pknit and more.
                     </p>
-                    <a href="fabrics.php" class="primary-btn header-btn text-uppercase">Read More</a>
+                    <a href="fabrics.php" class="primary-btn header-btn text-uppercase">Learn More</a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -195,13 +196,13 @@ include 'view/layout/header.php';
                     <p>
                         At Sudevi Chemicals, we ensure outstanding control over the quality of the garments.
                     </p>
-                    <a href="garments.php" class="primary-btn header-btn text-uppercase">Read More</a>
+                    <a href="garments.php" class="primary-btn header-btn text-uppercase">Learn More</a>
                 </div>
             </div>
 
 
         </div>
-       
+
     </div>	
 </section>
 <!-- End service Area -->

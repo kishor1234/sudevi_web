@@ -36,15 +36,12 @@ include 'view/layout/header.php';
                             <li><span class="font-weight-bold">Women&rsquo;s wear </span> &ndash; Undergarments, night wear, sports wear and casual wear which includes tops, dresses, shorts, hoodies, track pants, leggings, t &ndash; shirts, panties etc.&nbsp;</li>
                             <li><span class="font-weight-bold">Men&rsquo;s wear  </span>- Undergarments, night wear, sports wear and casual wear which includes vests, dresses, shorts, hoodies, track pants, leggings, t &ndash; shirts, underwear, boxers etc.</li>
                         </ul>
-                        
+
                     </div>
                 </div>																		
             </div>
             <div class="col-lg-4 sidebar">
-                <?php
-                include 'view/layout/manufacturingsidebar.php';
-                ?>
-
+                <img class="img-fluid" style="margin: 10px auto;" src="img/row/garmenting1.jpg" alt=""/>
             </div>
         </div>
     </div>	
