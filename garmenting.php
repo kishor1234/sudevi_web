@@ -2,7 +2,7 @@
 include 'view/layout/header.php';
 ?>
 <!-- start banner Area -->
-<section class="banner-area relative" id="home">    
+<section class="banner-area relative" id="home" style="padding: 30px; background-image: url(img/banner/Sudevi_Garmenting_a.jpg);">    
     <div class="overlay overlay-bg"></div>
     <div class="container">
         <div class="row d-flex align-items-center justify-content-center">
