@@ -28,8 +28,8 @@ include 'view/layout/header.php';
                         </h1>
                     </a>
                     <div class="content-wrap">
-                        <p class="text-justify">
-                            To achieve and maintain our high standards, we employ the most advanced techniques with the latest machinery available to the garment and fabric manufacturers. Our dyeing facility is equipped with a state-of-the-art lab, dyeing systems, and a variety of finishing machines that provide unique touches as per the client’s requirements. Our packaging line involves an automated packaging line that involves zero human intervention, to ensure zero-handling of fabrics.
+                        <p class="text-left">
+                            To achieve and maintain our high standards, we employ the most advanced techniques with the latest machinery available to the garment and fabric manufacturers. Our dyeing facility is equipped with a state-of-the-art lab, dyeing systems, and a variety of finishing machines that provide unique touches as per the client’s requirements. Our packaging line involves an automated packaging line that involves zero human intervention to ensure zero-handling of fabrics.
                         </p>
                         <center>
                             <a href="Sudevi brochure.pdf" class="primary-btn header-btn text-uppercase">Know our Machinery</a>
@@ -50,7 +50,9 @@ include 'view/layout/header.php';
                             <div class="pb-20">
                                 <ul class="unordered-list pb-10">
                                     <li>Our labs at Sudevi consist of the world’s most advanced dyeing machines imported from Technorama, Italy. </li>
-                                    <li>With these auto-pipetting and dyeing machines we are able to achieve the best colour standards with absolute precision, which is for buyers who are very precise about the shades of their fabric. </li>
+                                    <li>With these auto-pipetting and dyeing machines we are able to achieve the best colour standards
+                                        with absolute precision. This is particularly appreciated by buyers who are very precise about the
+                                        shades of their fabric.</li>
                                     <li>The development, pre-production and post-production testing of the dyed fabric is meticulous, rigorous and is regularly monitored by a professional team to ensure that only the best fabric is delivered to our clients and customers.</li>
                                 </ul>
                             </div>
@@ -119,7 +121,7 @@ include 'view/layout/header.php';
                         <div class="col-md-8 mt-sm-20">
                             <div class="pb-20">
                                 <ul class="unordered-list pb-10">
-                                    <li>To maintain perfection and our zero-handling of fabrics philosophy we have an automatic-checking and packaging machine imported from La Meccanica, Italy.  </li>
+                                    <li>To maintain perfection and our zero-handling of fabrics philosophy, we have an automatic-checking and packaging machine imported from La Meccanica, Italy.  </li>
                                 </ul>
                             </div>
                         </div>

@@ -50,7 +50,7 @@ include 'view/layout/header.php';
                                     <p>The cutting equipment in our facilities consist of two tables with the capability to cut fabrics up-to a width of 84 inches.&nbsp;</p>
                                 </li>
                                 <li>
-                                    <p>We have ensured that we procured our cutting machines from EastmanCuts, Canada, who provide the best cutting machines that deliver the best results.&nbsp;</p>
+                                    <p>We ensured that we procured our cutting machines from EastmanCuts, Canada, who provide the best cutting machines that deliver the best results.&nbsp;</p>
                                 </li>
                                 <li>
                                     <p>We have also made pattern sharing an easier task, by having our facilities set up a digitizer interfaced with a WinDa Pattern maker.&nbsp;</p>
@@ -75,10 +75,10 @@ include 'view/layout/header.php';
                                     <p>We keep in mind that quality is our prime focus. Therefore, to ensure the best product for our clients, all our stitching machines are procured from Pegasus and Kansai (Japan) and Brother (India) .</p>
                                 </li>
                                 <li>
-                                    <p>Our machines have been set-up to handle the most complex knitted garments and basic woven garment manufacturing. With our 70 high speed machines we are able to stitch approximately 4,000 garments / day. 4</p>
+                                    <p>Our machines have been set-up to handle the most complex knitted garments and basic woven garment manufacturing. With our 70 high speed machines we are able to stitch approximately 4,000 garments / day.</p>
                                 </li>
                                 <li>
-                                    <p>We have also felt the need to add certain value added machines such as neck-rib attaching machines for t-shirts, outer elastic attaching machines for undergarments and small head machines for baby apparel, since we put a strong emphasis on delivering products of high quality.&nbsp;</p>
+                                    <p>We have also included certain value added machines such as neck-rib attaching machines for t-shirts, outer elastic attaching machines for undergarments and small head machines for baby apparel, This helps us to deliver products of high quality.&nbsp;</p>
                                 </li>
                             </ul>
                         </div>
@@ -376,7 +376,9 @@ include 'view/layout/header.php';
                         <div class="col-lg-8">
                             <ul class="unordered-list pb-10">
                                 <li>
-                                    <p>Delivering on our promises of providing high quality products to our clientele is our top priority. Our unit is hence equipped with checking tables and full size vacuum press tables capable of pressing woven and knitted garments.&nbsp;</p>
+                                    <p>Our top priority is to deliver on our promise of providing high quality products to our clientele.Our
+                                        unit is hence equipped with checking tables and full size vacuum press tables capable of
+                                        pressing woven and knitted garments.</p>
                                 </li>
                                 <li>
                                     <p>To comply with our own standards, we ensure that every piece of fabric and all the garments are inspected, pressed and packed after a rigorous round of lab tests.</p>

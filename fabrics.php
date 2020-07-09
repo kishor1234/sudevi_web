@@ -15,6 +15,11 @@ include 'view/layout/header.php';
         </div>
     </div>
 </section>
+<style>
+    .cat-extra a{
+        cursor:initial;
+    }
+</style>
 <!-- End banner Area --> 
 <!-- Start blog-posts Area -->
 <section class="cat-area section-gap" id="feature">
